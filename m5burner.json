@@ -3,7 +3,7 @@
   "description": "",
   "keywords": "",
   "author": "curdeveryday",
-  "repository": "",
+  "repository": "https://github.com/curdeveryday/test-firmware",
   "version": "2.1.2",
   "framework": "Micropython"
 }
