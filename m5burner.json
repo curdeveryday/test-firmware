@@ -1,22 +1,10 @@
-[
-  {
-    "name": "TestFirmware",
-    "description": "",
-    "keywords": "",
-    "author": "curdeveryday",
-    "repository": "https://github.com/curdeveryday/test-firmware",
-    "branch": "master",
-    "version": "0.0.1",
-    "framework": "Micropython"
-  },
-  {
-    "name": "TestFirmware",
-    "description": "",
-    "keywords": "",
-    "author": "curdeveryday",
-    "repository": "https://github.com/curdeveryday/test-firmware",
-    "branch": "cn",
-    "version": "cn-0.0.1",
-    "framework": "Micropython"
-  }
-]
+{
+  "name": "TestFirmware",
+  "description": "",
+  "keywords": "",
+  "author": "curdeveryday",
+  "repository": "https://github.com/curdeveryday/test-firmware",
+  "firmware_path": "firmware",
+  "version": "0.0.1",
+  "framework": "Micropython"
+}
