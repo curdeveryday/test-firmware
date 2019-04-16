@@ -4,7 +4,13 @@
   "keywords": "",
   "author": "curdeveryday",
   "repository": "https://github.com/curdeveryday/test-firmware",
-  "firmware_path": "firmware",
+  "firmware_category": [
+    {
+      "path": "firmware",
+      "device": ["M5Stack Core"],
+      "default_baud": 921600
+    }
+  ],
   "version": "0.0.1",
   "framework": "Micropython"
 }
